@@ -1,0 +1,251 @@
+Order ID,Date,City,Product,Category,Quantity,Unit Price,Sales,Payment Method
+ORD0023,2026-01-01,Rawalpindi,Shampoo,Personal Care,2,650,1300,Card
+ORD0029,2026-01-01,Islamabad,Cooking Oil,Grocery,2,620,1240,Card
+ORD0183,2026-01-01,Multan,Yogurt,Dairy,5,190,950,Cash
+ORD0046,2026-01-02,Peshawar,Laundry Detergent,Household,2,720,1440,Cash
+ORD0149,2026-01-02,Karachi,Soap,Personal Care,2,180,360,Card
+ORD0170,2026-01-02,Multan,Laundry Detergent,Household,8,720,5760,Online
+ORD0165,2026-01-05,Rawalpindi,Milk,Dairy,5,220,1100,Online
+ORD0009,2026-01-06,Faisalabad,Cola,Beverages,4,210,840,Cash
+ORD0098,2026-01-06,Rawalpindi,Floor Cleaner,Household,6,390,2340,Online
+ORD0129,2026-01-06,Gujranwala,Mineral Water,Beverages,1,70,70,Cash
+ORD0174,2026-01-06,Lahore,Green Tea,Beverages,2,320,640,Cash
+ORD0225,2026-01-06,Peshawar,Dishwashing Liquid,Household,6,300,1800,Card
+ORD0033,2026-01-07,Islamabad,Tea,Grocery,6,550,3300,Cash
+ORD0038,2026-01-08,Karachi,Shampoo,Personal Care,7,650,4550,Card
+ORD0154,2026-01-08,Multan,Mineral Water,Beverages,7,80,560,Cash
+ORD0025,2026-01-09,Karachi,Butter,Dairy,3,390,1170,Online
+ORD0028,2026-01-09,Rawalpindi,Flour,Grocery,4,170,680,Cash
+ORD0066,2026-01-09,Rawalpindi,Tissue Box,Household,2,200,400,Card
+ORD0092,2026-01-09,Lahore,Cooking Oil,Grocery,4,680,2720,Cash
+ORD0030,2026-01-10,Faisalabad,Green Tea,Beverages,4,350,1400,Cash
+ORD0220,2026-01-10,Karachi,Face Wash,Personal Care,8,570,4560,Online
+ORD0224,2026-01-10,Islamabad,Floor Cleaner,Household,8,420,3360,Online
+ORD0106,2026-01-11,Faisalabad,Face Wash,Personal Care,4,570,2280,Card
+ORD0227,2026-01-11,Karachi,Cooking Oil,Grocery,8,650,5200,Online
+ORD0232,2026-01-11,Multan,Floor Cleaner,Household,6,450,2700,Cash
+ORD0052,2026-01-12,Gujranwala,Cola,Beverages,1,180,180,Cash
+ORD0132,2026-01-12,Peshawar,Green Tea,Beverages,6,350,2100,Online
+ORD0180,2026-01-12,Faisalabad,Laundry Detergent,Household,1,750,750,Card
+ORD0032,2026-01-13,Gujranwala,Green Tea,Beverages,7,350,2450,Online
+ORD0036,2026-01-13,Lahore,Laundry Detergent,Household,2,750,1500,Cash
+ORD0153,2026-01-13,Peshawar,Cheese,Dairy,1,450,450,Card
+ORD0194,2026-01-13,Rawalpindi,Toothpaste,Personal Care,5,320,1600,Cash
+ORD0196,2026-01-13,Rawalpindi,Milk,Dairy,6,240,1440,Cash
+ORD0002,2026-01-14,Islamabad,Floor Cleaner,Household,1,390,390,Cash
+ORD0006,2026-01-14,Islamabad,Shampoo,Personal Care,6,680,4080,Card
+ORD0059,2026-01-14,Gujranwala,Tea,Grocery,4,500,2000,Card
+ORD0133,2026-01-14,Karachi,Green Tea,Beverages,8,350,2800,Online
+ORD0018,2026-01-15,Karachi,Butter,Dairy,2,390,780,Card
+ORD0020,2026-01-15,Multan,Cola,Beverages,5,180,900,Cash
+ORD0054,2026-01-15,Islamabad,Milk,Dairy,6,220,1320,Online
+ORD0135,2026-01-15,Gujranwala,Laundry Detergent,Household,8,720,5760,Cash
+ORD0168,2026-01-15,Peshawar,Cooking Oil,Grocery,4,680,2720,Online
+ORD0184,2026-01-15,Lahore,Milk,Dairy,6,250,1500,Cash
+ORD0207,2026-01-15,Rawalpindi,Shampoo,Personal Care,5,670,3350,Online
+ORD0218,2026-01-15,Faisalabad,Mineral Water,Beverages,3,80,240,Cash
+ORD0119,2026-01-16,Gujranwala,Dishwashing Liquid,Household,7,300,2100,Card
+ORD0016,2026-01-18,Faisalabad,Tissue Box,Household,7,180,1260,Card
+ORD0055,2026-01-19,Gujranwala,Milk,Dairy,5,220,1100,Cash
+ORD0073,2026-01-19,Lahore,Cooking Oil,Grocery,8,650,5200,Cash
+ORD0142,2026-01-19,Gujranwala,Yogurt,Dairy,2,160,320,Card
+ORD0219,2026-01-19,Multan,Yogurt,Dairy,3,190,570,Online
+ORD0082,2026-01-20,Faisalabad,Tea,Grocery,7,520,3640,Online
+ORD0235,2026-01-20,Islamabad,Cola,Beverages,1,200,200,Card
+ORD0005,2026-01-21,Gujranwala,Mineral Water,Beverages,3,80,240,Card
+ORD0037,2026-01-22,Gujranwala,Face Wash,Personal Care,4,580,2320,Card
+ORD0058,2026-01-23,Rawalpindi,Soap,Personal Care,5,160,800,Online
+ORD0063,2026-01-23,Multan,Basmati Rice,Grocery,7,450,3150,Online
+ORD0069,2026-01-23,Multan,Shampoo,Personal Care,5,650,3250,Cash
+ORD0042,2026-01-24,Islamabad,Laundry Detergent,Household,4,720,2880,Cash
+ORD0089,2026-01-24,Lahore,Green Tea,Beverages,6,330,1980,Card
+ORD0234,2026-01-24,Faisalabad,Green Tea,Beverages,4,330,1320,Cash
+ORD0136,2026-01-25,Rawalpindi,Floor Cleaner,Household,8,450,3600,Cash
+ORD0160,2026-01-26,Gujranwala,Shampoo,Personal Care,4,650,2600,Online
+ORD0011,2026-01-27,Multan,Flour,Grocery,3,170,510,Online
+ORD0051,2026-01-27,Multan,Floor Cleaner,Household,5,450,2250,Cash
+ORD0137,2026-01-27,Multan,Dishwashing Liquid,Household,5,300,1500,Online
+ORD0182,2026-01-27,Faisalabad,Cheese,Dairy,3,510,1530,Online
+ORD0003,2026-01-28,Faisalabad,Laundry Detergent,Household,4,740,2960,Online
+ORD0040,2026-01-28,Lahore,Laundry Detergent,Household,6,690,4140,Cash
+ORD0199,2026-01-29,Islamabad,Mineral Water,Beverages,2,130,260,Card
+ORD0157,2026-01-30,Peshawar,Green Tea,Beverages,5,370,1850,Cash
+ORD0172,2026-01-30,Peshawar,Flour,Grocery,6,170,1020,Cash
+ORD0193,2026-01-30,Gujranwala,Green Tea,Beverages,7,350,2450,Online
+ORD0024,2026-01-31,Lahore,Milk,Dairy,2,240,480,Card
+ORD0238,2026-01-31,Peshawar,Tissue Box,Household,8,160,1280,Online
+ORD0239,2026-01-31,Multan,Soap,Personal Care,6,200,1200,Online
+ORD0249,2026-01-31,Multan,Basmati Rice,Grocery,4,450,1800,Online
+ORD0012,2026-02-01,Karachi,Face Wash,Personal Care,5,570,2850,Online
+ORD0034,2026-02-01,Faisalabad,Butter,Dairy,3,390,1170,Cash
+ORD0075,2026-02-01,Karachi,Basmati Rice,Grocery,7,430,3010,Cash
+ORD0103,2026-02-01,Peshawar,Floor Cleaner,Household,6,390,2340,Card
+ORD0181,2026-02-01,Karachi,Dishwashing Liquid,Household,2,330,660,Online
+ORD0216,2026-02-01,Gujranwala,Floor Cleaner,Household,2,420,840,Card
+ORD0065,2026-02-02,Lahore,Shampoo,Personal Care,4,650,2600,Card
+ORD0210,2026-02-02,Multan,Cola,Beverages,1,180,180,Online
+ORD0248,2026-02-02,Faisalabad,Butter,Dairy,2,420,840,Card
+ORD0110,2026-02-04,Multan,Orange Juice,Beverages,2,300,600,Cash
+ORD0126,2026-02-04,Karachi,Basmati Rice,Grocery,3,480,1440,Card
+ORD0141,2026-02-04,Gujranwala,Face Wash,Personal Care,4,550,2200,Online
+ORD0167,2026-02-04,Karachi,Green Tea,Beverages,5,370,1850,Card
+ORD0201,2026-02-04,Multan,Mineral Water,Beverages,1,80,80,Cash
+ORD0243,2026-02-04,Peshawar,Dishwashing Liquid,Household,7,270,1890,Cash
+ORD0035,2026-02-05,Peshawar,Milk,Dairy,8,250,2000,Online
+ORD0080,2026-02-05,Peshawar,Sugar,Grocery,4,180,720,Card
+ORD0039,2026-02-06,Gujranwala,Floor Cleaner,Household,3,400,1200,Card
+ORD0048,2026-02-06,Karachi,Toothpaste,Personal Care,1,340,340,Online
+ORD0124,2026-02-06,Peshawar,Cooking Oil,Grocery,5,680,3400,Online
+ORD0152,2026-02-06,Faisalabad,Tea,Grocery,2,550,1100,Online
+ORD0113,2026-02-07,Faisalabad,Orange Juice,Beverages,5,250,1250,Online
+ORD0022,2026-02-08,Faisalabad,Cheese,Dairy,3,480,1440,Online
+ORD0049,2026-02-08,Islamabad,Cheese,Dairy,2,450,900,Online
+ORD0085,2026-02-08,Gujranwala,Soap,Personal Care,8,160,1280,Card
+ORD0120,2026-02-08,Gujranwala,Cola,Beverages,2,210,420,Cash
+ORD0096,2026-02-09,Gujranwala,Soap,Personal Care,2,180,360,Online
+ORD0139,2026-02-09,Lahore,Floor Cleaner,Household,2,400,800,Cash
+ORD0223,2026-02-09,Peshawar,Shampoo,Personal Care,1,650,650,Card
+ORD0014,2026-02-10,Gujranwala,Cola,Beverages,4,180,720,Online
+ORD0015,2026-02-10,Faisalabad,Face Wash,Personal Care,8,530,4240,Card
+ORD0064,2026-02-10,Gujranwala,Laundry Detergent,Household,7,720,5040,Cash
+ORD0081,2026-02-10,Islamabad,Yogurt,Dairy,4,160,640,Online
+ORD0111,2026-02-10,Islamabad,Dishwashing Liquid,Household,4,280,1120,Online
+ORD0246,2026-02-10,Islamabad,Orange Juice,Beverages,3,250,750,Card
+ORD0090,2026-02-11,Rawalpindi,Toothpaste,Personal Care,7,320,2240,Cash
+ORD0104,2026-02-11,Karachi,Soap,Personal Care,6,210,1260,Card
+ORD0105,2026-02-13,Multan,Tissue Box,Household,1,180,180,Cash
+ORD0143,2026-02-13,Multan,Sugar,Grocery,5,210,1050,Online
+ORD0150,2026-02-13,Gujranwala,Sugar,Grocery,7,180,1260,Online
+ORD0217,2026-02-13,Faisalabad,Orange Juice,Beverages,2,280,560,Online
+ORD0229,2026-02-13,Lahore,Cola,Beverages,6,150,900,Online
+ORD0060,2026-02-14,Multan,Yogurt,Dairy,1,180,180,Cash
+ORD0109,2026-02-14,Gujranwala,Tissue Box,Household,6,200,1200,Card
+ORD0056,2026-02-15,Faisalabad,Milk,Dairy,6,250,1500,Online
+ORD0161,2026-02-15,Multan,Cola,Beverages,7,180,1260,Cash
+ORD0179,2026-02-15,Lahore,Toothpaste,Personal Care,4,290,1160,Card
+ORD0198,2026-02-15,Islamabad,Dishwashing Liquid,Household,3,320,960,Card
+ORD0017,2026-02-16,Faisalabad,Butter,Dairy,2,420,840,Cash
+ORD0100,2026-02-16,Peshawar,Butter,Dairy,3,410,1230,Online
+ORD0204,2026-02-17,Multan,Cola,Beverages,1,160,160,Cash
+ORD0245,2026-02-17,Faisalabad,Shampoo,Personal Care,6,630,3780,Cash
+ORD0010,2026-02-18,Multan,Toothpaste,Personal Care,3,320,960,Card
+ORD0045,2026-02-20,Karachi,Green Tea,Beverages,6,380,2280,Cash
+ORD0061,2026-02-21,Rawalpindi,Cola,Beverages,5,180,900,Online
+ORD0087,2026-02-21,Karachi,Soap,Personal Care,1,180,180,Online
+ORD0108,2026-02-21,Faisalabad,Mineral Water,Beverages,8,100,800,Online
+ORD0134,2026-02-21,Lahore,Shampoo,Personal Care,6,650,3900,Card
+ORD0057,2026-02-22,Karachi,Yogurt,Dairy,3,160,480,Cash
+ORD0197,2026-02-22,Rawalpindi,Shampoo,Personal Care,5,650,3250,Card
+ORD0166,2026-02-23,Karachi,Yogurt,Dairy,6,160,960,Online
+ORD0186,2026-02-23,Islamabad,Tea,Grocery,8,550,4400,Card
+ORD0214,2026-02-23,Multan,Tea,Grocery,1,520,520,Cash
+ORD0189,2026-02-24,Islamabad,Face Wash,Personal Care,2,520,1040,Card
+ORD0070,2026-02-25,Rawalpindi,Face Wash,Personal Care,8,570,4560,Cash
+ORD0086,2026-02-25,Peshawar,Tea,Grocery,6,540,3240,Online
+ORD0192,2026-02-25,Islamabad,Flour,Grocery,4,170,680,Card
+ORD0211,2026-02-25,Karachi,Butter,Dairy,4,390,1560,Online
+ORD0178,2026-02-26,Faisalabad,Cola,Beverages,6,180,1080,Online
+ORD0222,2026-02-26,Multan,Cola,Beverages,6,180,1080,Cash
+ORD0240,2026-02-26,Peshawar,Green Tea,Beverages,7,330,2310,Cash
+ORD0079,2026-02-27,Multan,Cheese,Dairy,8,500,4000,Cash
+ORD0244,2026-02-27,Rawalpindi,Tea,Grocery,1,520,520,Online
+ORD0021,2026-02-28,Lahore,Orange Juice,Beverages,2,310,620,Online
+ORD0074,2026-02-28,Gujranwala,Dishwashing Liquid,Household,7,300,2100,Card
+ORD0077,2026-02-28,Karachi,Toothpaste,Personal Care,8,320,2560,Online
+ORD0213,2026-02-28,Islamabad,Green Tea,Beverages,7,370,2590,Online
+ORD0083,2026-03-01,Gujranwala,Cooking Oil,Grocery,7,650,4550,Online
+ORD0140,2026-03-01,Islamabad,Butter,Dairy,5,390,1950,Online
+ORD0158,2026-03-01,Multan,Dishwashing Liquid,Household,2,300,600,Card
+ORD0091,2026-03-02,Lahore,Laundry Detergent,Household,6,700,4200,Online
+ORD0116,2026-03-02,Peshawar,Toothpaste,Personal Care,3,290,870,Card
+ORD0147,2026-03-02,Gujranwala,Soap,Personal Care,8,150,1200,Cash
+ORD0247,2026-03-02,Karachi,Face Wash,Personal Care,1,520,520,Cash
+ORD0112,2026-03-03,Multan,Tissue Box,Household,2,210,420,Cash
+ORD0117,2026-03-03,Islamabad,Tea,Grocery,8,490,3920,Online
+ORD0138,2026-03-04,Islamabad,Flour,Grocery,4,190,760,Cash
+ORD0151,2026-03-04,Lahore,Laundry Detergent,Household,4,740,2960,Online
+ORD0177,2026-03-04,Gujranwala,Cola,Beverages,6,160,960,Card
+ORD0206,2026-03-04,Peshawar,Toothpaste,Personal Care,4,350,1400,Online
+ORD0047,2026-03-06,Multan,Cheese,Dairy,2,460,920,Card
+ORD0067,2026-03-06,Multan,Toothpaste,Personal Care,7,340,2380,Card
+ORD0078,2026-03-06,Gujranwala,Floor Cleaner,Household,3,440,1320,Card
+ORD0148,2026-03-06,Rawalpindi,Tea,Grocery,2,520,1040,Card
+ORD0226,2026-03-06,Karachi,Tea,Grocery,2,550,1100,Card
+ORD0062,2026-03-07,Gujranwala,Tissue Box,Household,1,150,150,Card
+ORD0071,2026-03-07,Peshawar,Milk,Dairy,5,220,1100,Online
+ORD0187,2026-03-07,Islamabad,Soap,Personal Care,1,200,200,Online
+ORD0188,2026-03-08,Multan,Shampoo,Personal Care,1,650,650,Card
+ORD0228,2026-03-08,Karachi,Mineral Water,Beverages,5,100,500,Card
+ORD0155,2026-03-09,Gujranwala,Dishwashing Liquid,Household,3,280,840,Cash
+ORD0203,2026-03-09,Faisalabad,Face Wash,Personal Care,8,550,4400,Cash
+ORD0114,2026-03-10,Karachi,Cola,Beverages,1,180,180,Card
+ORD0175,2026-03-10,Karachi,Face Wash,Personal Care,6,570,3420,Online
+ORD0008,2026-03-12,Multan,Tissue Box,Household,4,200,800,Cash
+ORD0050,2026-03-12,Karachi,Mineral Water,Beverages,4,120,480,Card
+ORD0068,2026-03-12,Karachi,Butter,Dairy,7,410,2870,Online
+ORD0122,2026-03-12,Islamabad,Milk,Dairy,7,220,1540,Online
+ORD0145,2026-03-12,Gujranwala,Toothpaste,Personal Care,4,340,1360,Cash
+ORD0242,2026-03-12,Islamabad,Laundry Detergent,Household,5,690,3450,Cash
+ORD0013,2026-03-13,Faisalabad,Cola,Beverages,4,210,840,Cash
+ORD0043,2026-03-14,Faisalabad,Laundry Detergent,Household,2,720,1440,Online
+ORD0088,2026-03-14,Lahore,Tea,Grocery,3,550,1650,Card
+ORD0094,2026-03-14,Faisalabad,Toothpaste,Personal Care,6,300,1800,Online
+ORD0162,2026-03-14,Lahore,Floor Cleaner,Household,5,450,2250,Cash
+ORD0202,2026-03-14,Gujranwala,Cooking Oil,Grocery,1,620,620,Online
+ORD0031,2026-03-15,Peshawar,Butter,Dairy,7,370,2590,Cash
+ORD0146,2026-03-15,Gujranwala,Butter,Dairy,1,390,390,Online
+ORD0200,2026-03-15,Faisalabad,Shampoo,Personal Care,5,620,3100,Cash
+ORD0041,2026-03-16,Peshawar,Dishwashing Liquid,Household,1,300,300,Cash
+ORD0044,2026-03-16,Rawalpindi,Orange Juice,Beverages,6,260,1560,Card
+ORD0144,2026-03-16,Peshawar,Butter,Dairy,8,390,3120,Card
+ORD0191,2026-03-16,Rawalpindi,Toothpaste,Personal Care,8,320,2560,Online
+ORD0231,2026-03-16,Karachi,Mineral Water,Beverages,7,80,560,Online
+ORD0102,2026-03-17,Multan,Orange Juice,Beverages,2,280,560,Card
+ORD0125,2026-03-17,Faisalabad,Shampoo,Personal Care,4,670,2680,Cash
+ORD0159,2026-03-17,Multan,Toothpaste,Personal Care,8,350,2800,Card
+ORD0185,2026-03-17,Rawalpindi,Cooking Oil,Grocery,5,620,3100,Cash
+ORD0208,2026-03-17,Peshawar,Tissue Box,Household,1,160,160,Card
+ORD0019,2026-03-18,Peshawar,Tissue Box,Household,1,200,200,Online
+ORD0123,2026-03-18,Peshawar,Cola,Beverages,4,180,720,Online
+ORD0127,2026-03-18,Multan,Shampoo,Personal Care,8,670,5360,Card
+ORD0209,2026-03-18,Lahore,Cooking Oil,Grocery,5,630,3150,Cash
+ORD0007,2026-03-19,Multan,Tea,Grocery,2,520,1040,Cash
+ORD0026,2026-03-19,Gujranwala,Yogurt,Dairy,5,160,800,Online
+ORD0095,2026-03-19,Islamabad,Cheese,Dairy,2,480,960,Cash
+ORD0163,2026-03-19,Rawalpindi,Yogurt,Dairy,5,180,900,Online
+ORD0190,2026-03-19,Karachi,Cooking Oil,Grocery,5,650,3250,Online
+ORD0241,2026-03-19,Karachi,Cola,Beverages,8,210,1680,Card
+ORD0156,2026-03-20,Gujranwala,Dishwashing Liquid,Household,8,300,2400,Cash
+ORD0093,2026-03-21,Karachi,Yogurt,Dairy,8,180,1440,Cash
+ORD0205,2026-03-21,Lahore,Sugar,Grocery,8,200,1600,Card
+ORD0215,2026-03-21,Peshawar,Cola,Beverages,7,210,1470,Cash
+ORD0236,2026-03-21,Karachi,Floor Cleaner,Household,3,400,1200,Cash
+ORD0250,2026-03-21,Peshawar,Basmati Rice,Grocery,8,450,3600,Online
+ORD0097,2026-03-22,Faisalabad,Sugar,Grocery,2,210,420,Online
+ORD0118,2026-03-22,Lahore,Yogurt,Dairy,5,130,650,Cash
+ORD0121,2026-03-22,Faisalabad,Cola,Beverages,3,160,480,Cash
+ORD0001,2026-03-23,Islamabad,Sugar,Grocery,4,160,640,Cash
+ORD0053,2026-03-23,Multan,Butter,Dairy,7,390,2730,Cash
+ORD0072,2026-03-23,Rawalpindi,Cooking Oil,Grocery,5,630,3150,Cash
+ORD0099,2026-03-24,Rawalpindi,Tea,Grocery,8,490,3920,Card
+ORD0107,2026-03-24,Peshawar,Shampoo,Personal Care,2,650,1300,Cash
+ORD0173,2026-03-24,Islamabad,Toothpaste,Personal Care,7,290,2030,Cash
+ORD0221,2026-03-24,Rawalpindi,Orange Juice,Beverages,8,250,2000,Card
+ORD0027,2026-03-25,Rawalpindi,Face Wash,Personal Care,2,530,1060,Cash
+ORD0101,2026-03-25,Multan,Floor Cleaner,Household,8,420,3360,Online
+ORD0131,2026-03-25,Peshawar,Orange Juice,Beverages,7,300,2100,Card
+ORD0164,2026-03-26,Karachi,Basmati Rice,Grocery,5,480,2400,Card
+ORD0212,2026-03-27,Rawalpindi,Tea,Grocery,1,520,520,Cash
+ORD0233,2026-03-27,Islamabad,Toothpaste,Personal Care,1,320,320,Card
+ORD0130,2026-03-28,Lahore,Cola,Beverages,3,180,540,Online
+ORD0169,2026-03-28,Gujranwala,Tissue Box,Household,2,210,420,Card
+ORD0171,2026-03-28,Multan,Floor Cleaner,Household,6,390,2340,Online
+ORD0230,2026-03-28,Gujranwala,Mineral Water,Beverages,3,100,300,Cash
+ORD0195,2026-03-29,Peshawar,Basmati Rice,Grocery,2,420,840,Card
+ORD0237,2026-03-30,Karachi,Shampoo,Personal Care,7,650,4550,Online
+ORD0004,2026-03-31,Gujranwala,Butter,Dairy,5,420,2100,Cash
+ORD0076,2026-03-31,Peshawar,Flour,Grocery,4,200,800,Cash
+ORD0084,2026-03-31,Lahore,Floor Cleaner,Household,8,390,3120,Card
+ORD0115,2026-03-31,Karachi,Shampoo,Personal Care,1,650,650,Card
+ORD0128,2026-03-31,Gujranwala,Green Tea,Beverages,8,320,2560,Online
+ORD0176,2026-03-31,Gujranwala,Dishwashing Liquid,Household,7,320,2240,Cash
